@@ -19,3 +19,6 @@ Ever thought of coding your very own *Harry Potter* spell book using JavaScript?
 4. **Cast Your Clickable Spell** 🪄
    - By adding a click event listener to each spell, we toggle the hidden details (type and description) on and off. A simple `display: none` and `display: block` switch works like a charm here!
    - Click – it opens. Click again – it closes. Just like your magical spellbook revealing its secrets! 🔑
+
+
+Demo - https://www.instagram.com/reel/DAd4q0py6_K/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
